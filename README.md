@@ -13,6 +13,7 @@
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
         <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
     <!-- Development Tools -->
@@ -30,7 +31,6 @@
     <div>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
     </div>
     <!-- Version Control -->

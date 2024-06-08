@@ -23,12 +23,15 @@
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
+        <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white">
     </div>
     <!-- Framework -->
     <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>

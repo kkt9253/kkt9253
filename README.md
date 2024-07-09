@@ -1,13 +1,17 @@
 ## Study 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <div>
+        ![Kim kyeongtak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkt9253&show_icons=true&theme=radical)
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkt9253)](https://solved.ac/kkt9253/)
+    </div>
     <p><strong>🖥️ Programming Languages</strong></p>
     <div>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> -->
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> -->
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -30,7 +34,7 @@
     <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
     </div>
     <!-- Version Control -->

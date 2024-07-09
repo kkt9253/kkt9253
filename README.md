@@ -1,8 +1,11 @@
-## Study 
+# Study
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
-        ![Kim kyeongtak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkt9253&show_icons=true&theme=radical)
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkt9253)](https://solved.ac/kkt9253/)
+        <img src="https://github-readme-stats.vercel.app/api?username=kkt9253&show_icons=true&theme=radical" alt="Kim kyeongtak's GitHub stats">
+        <a href="https://solved.ac/kkt9253/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkt9253" alt="Solved.ac Profile">
+        </a>
     </div>
     <p><strong>🖥️ Programming Languages</strong></p>
     <div>
